@@ -23,3 +23,6 @@ Here are some screenshots showcasing the DMRC Route Planner in action:
 
 ## Technologies Used
 C++, Dijkstra's Algorithm, Data Structures, Command-line Interface (CLI).
+
+## Contact
+For inquiries about the DMRC Route Planner project, please contact [Sandarbh Kansal](mailto:sandarbhkansal8@gmail.com) OR [Manoj Pallakki](mailto:thippareddy.bt@gmail.com).
