@@ -17,12 +17,3 @@ Here are some screenshots showcasing the DMRC Route Planner in action:
 
 ![Screenshot 1](2.png)
 *Caption: Example of the command-line interface displaying route planning results.*
-
-![Screenshot 2](image.jpg)
-*Caption: Visualization of metro network graph representation.*
-
-## Technologies Used
-C++, Dijkstra's Algorithm, Data Structures, Command-line Interface (CLI).
-
-## Contact
-For inquiries about the DMRC Route Planner project, please contact [Sandarbh Kansal](mailto:sandarbhkansal8@gmail.com) OR [Manoj Pallakki](mailto:thippareddy.bt@gmail.com).
